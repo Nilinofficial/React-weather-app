@@ -1,0 +1,13 @@
+.weather{
+    margin-top: 50px;
+    padding-top: 15px;
+ 
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.weather__image{
+    width: 100px;
+    height: 400px;
+}
